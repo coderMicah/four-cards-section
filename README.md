@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github.com/coderMicah/four-cards-section](https://github.com/coderMicah/four-cards-section)
+- Live Site URL: [cardsfrontend.netlify.app](https://cardsfrontend.netlify.app/)
 
 ## My process
 
@@ -52,5 +52,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/micahCodes)
+- Frontend Mentor - [@coderMicah](https://www.frontendmentor.io/profile/coderMicah)
 - Twitter - [@micahCodes](https://www.twitter.com/_micahcodes)
